@@ -1,0 +1,11 @@
+D:\faculdade\TDE-Robin\bin\Debug\TDE-Robin.exe.config
+D:\faculdade\TDE-Robin\bin\Debug\TDE-Robin.exe
+D:\faculdade\TDE-Robin\bin\Debug\TDE-Robin.pdb
+D:\faculdade\TDE-Robin\obj\Debug\TDE-Robin.csproj.AssemblyReference.cache
+D:\faculdade\TDE-Robin\obj\Debug\TDE-Robin.csproj.SuggestedBindingRedirects.cache
+D:\faculdade\TDE-Robin\obj\Debug\TDE-Robin.csproj.CoreCompileInputs.cache
+D:\faculdade\TDE-Robin\obj\Debug\TDE-Robin.exe
+D:\faculdade\TDE-Robin\obj\Debug\TDE-Robin.pdb
+D:\faculdade\TDE-Robin\bin\Debug\Newtonsoft.Json.dll
+D:\faculdade\TDE-Robin\bin\Debug\Newtonsoft.Json.xml
+D:\faculdade\TDE-Robin\obj\Debug\TDE-Robin.csproj.CopyComplete
